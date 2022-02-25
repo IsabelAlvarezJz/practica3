@@ -1,0 +1,23 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+#nombre, #apellido{
+    width: 300px;
+    height: 40px;
+}
+#btnEnviar{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(20, 163, 199);
+    color: #FFF;
+    border-color: #FFF;
+    border-width: 0;
+    border-radius: 320px;
+}
+select{
+    width: 300px;
+    height: 46px;   
+}
+label{
+    margin-right: 40px;
+}
